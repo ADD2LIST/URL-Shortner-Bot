@@ -3,7 +3,7 @@ tgcrypto
 pyshorteners
 aiohttp
 dotenv
---upgrade pip
+
 
 
 
