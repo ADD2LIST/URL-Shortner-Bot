@@ -3,9 +3,7 @@ from pyrogram import Client
 
 
 
-import subprocess
 
-subprocess.check_call(['python', '-m', 'pip', 'install', '--upgrade', 'pip'])
 
 
 bot_token = os.environ.get("BOT_TOKEN")
